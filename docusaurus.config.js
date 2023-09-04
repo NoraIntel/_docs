@@ -65,7 +65,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'My Site',
+        title: 'NoraIntel _docs',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
@@ -89,41 +89,32 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Nora Ailleurs',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
-              },
-            ],
-          },
-          {
-            title: 'Community',
-            items: [
-              {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Portail',
+                href: 'https://noraintel.github.io',
               },
               {
                 label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                href: 'https://discord.noraintel.fr',
               },
               {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                label: 'Substack',
+                href: 'https://noraintel.substack.com',
               },
             ],
           },
           {
-            title: 'More',
+            title: 'Mentions légales',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
+                label: 'Données personnelles',
+                href: 'https://noraintel.github.io/Mentions_legales_-_Donnees_personnelles__Cookies_noraintel.fr___noraintel.github.io.pdf',
               },
               {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                label: 'Cookies',
+                href: 'https://noraintel.github.io/Mentions_legales_-_Donnees_personnelles__Cookies_noraintel.fr___noraintel.github.io.pdf',
               },
             ],
           },
