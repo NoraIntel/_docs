@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Le Canard Coin Coin
+# Pouet Pouet
 
 Docusaurus can manage multiple versions of your docs.
 
