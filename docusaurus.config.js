@@ -91,7 +91,7 @@ const config = {
         respectPrefersColorScheme: false,
       },
       footer: {
-        style: 'dark',
+        style: 'light',
         links: [
           {
             title: 'Nora Ailleurs',
