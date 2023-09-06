@@ -67,7 +67,7 @@ const config = {
       navbar: {
         title: '',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'NoraIntel Logo',
           src: 'img/logo.svg',
         },
         items: [
@@ -75,9 +75,8 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Docs',
+            label: 'Docs & Outils',
           },
-          {to: '/docs/outils', label: 'Outils', position: 'left'},
           {to: '/blog', label: 'Tutorial', position: 'left'},
           {
             href: 'https://github.com/NoraIntel',
