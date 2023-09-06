@@ -12,8 +12,8 @@ function HomepageHeader() {
   return (
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
-        <h1>{siteConfig.title}</h1>
-        <p>{siteConfig.tagline}</p>
+        <h1><img src="./nora_chat.png"></h1>
+        <p><img src="./nora_slogan.png"></p>
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
