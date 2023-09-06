@@ -77,6 +77,7 @@ const config = {
             position: 'left',
             label: 'Docs',
           },
+          {to: '/outils', label: 'outils', position: 'left'},
           {to: '/blog', label: 'Tutorial', position: 'left'},
           {
             href: 'https://github.com/NoraIntel',
