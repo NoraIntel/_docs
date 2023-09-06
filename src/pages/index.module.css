@@ -20,7 +20,7 @@
 }
 
 .hero__title {
-  color: #F0F0F0
+  color: #F0F0F0 !important
 }
 
 .buttons {
