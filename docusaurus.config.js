@@ -77,7 +77,7 @@ const config = {
             position: 'left',
             label: 'Docs & Outils',
           },
-          {to: '/blog', label: 'Tutorial', position: 'left'},
+          {to: '/blog', label: 'Tutoriel', position: 'left'},
           {
             href: 'https://github.com/NoraIntel',
             label: 'GitHub',
@@ -124,7 +124,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © 2022 - ${new Date().getFullYear()} NoraIntel <br> Propulsé par Docusaurus <br> Hébergé par Github`,
       },
       prism: {
         // theme: lightCodeTheme,
