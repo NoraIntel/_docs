@@ -13,7 +13,7 @@ function HomepageHeader() {
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
         <h1 className="hero__title">NoraIntel</h1>
-        <p className="hero__subtitle">Compilation de trouvailles, recherches et travail 🐈‍⬛</p>
+        <p className="hero__subtitle">Compilation de trouvailles, recherches et travaux 🐈‍⬛</p>
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
@@ -31,7 +31,7 @@ export default function Home() {
   return (
     <Layout
       title={`Docs & Outils`}
-      description="Compilation de trouvailles, recherches et travail 🐈‍⬛">
+      description="Compilation de trouvailles, recherches et travaux 🐈‍⬛">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
