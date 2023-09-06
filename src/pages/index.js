@@ -12,13 +12,13 @@ function HomepageHeader() {
   return (
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
-        <h1 style="color: F0F0F0, font-size: largest">NoraIntel</h1>
+        <h1 style="color: F0F0F0">NoraIntel</h1>
         <p style="color: F0F0F0">Compilation de trouvailles, recherches et travail 🐈‍⬛</p>
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/docs/">
-            Jeter un oeil 🤾
+            to="/docs">
+            Docusaurus Tutorial - 5min ⏱️
           </Link>
         </div>
       </div>
