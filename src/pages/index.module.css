@@ -10,7 +10,7 @@
   overflow: hidden;
   background-image: url("./nora_logo.svg");
   background-color: #363636;
-  color: #F0F0F0,
+  color: #F0F0F0;
 }
 
 @media screen and (max-width: 996px) {
