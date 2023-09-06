@@ -7,7 +7,7 @@ sidebar_position: 2
 Documents are **groups of pages** connected through:
 
 - a **sidebar**
-- **previous/next navigation**
+- **previous/ navigation**
 - **versioning**
 
 ## Create your first Doc
